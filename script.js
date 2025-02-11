@@ -7,13 +7,16 @@ const sounds = {
   button3: new Audio('2.wav'),
   button4: new Audio('3.wav'),
   button4: new Audio('4.wav'),
-  button4: new Audio('5.wav'),
-  button4: new Audio('6.wav'),
-  button4: new Audio('7.wav'),
-  button4: new Audio('8.wav'),
-  button4: new Audio('9.wav'),
-  button4: new Audio('10.wav'),
-  button4: new Audio('11.wav')
+  button5: new Audio('5.wav'),
+  button6: new Audio('6.wav'),
+  button7: new Audio('7.wav'),
+  button8: new Audio('8.wav'),
+  button9: new Audio('9.wav'),
+  button10: new Audio('10.wav'),
+  button11: new Audio('11.wav'),
+  button12: new Audio('oiia.wav')
+
+  
 };
 
 
