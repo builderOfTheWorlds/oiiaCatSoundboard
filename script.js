@@ -5,7 +5,7 @@ const sounds = {
   button1: new Audio('0.wav'),
   button2: new Audio('1.wav'),
   button3: new Audio('2.wav'),
-  button4: new Audio('3.wav'),
+  button4: new Audio('3_v2.wav'),
   button4: new Audio('4.wav'),
   button5: new Audio('5.wav'),
   button6: new Audio('6.wav'),
