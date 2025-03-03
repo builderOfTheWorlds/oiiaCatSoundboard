@@ -1,6 +1,10 @@
 // Load the sound file
 // const soundO = new Audio('0_o.wav'); // Replace with the actual path to your sound file
 
+
+audio.addEventListener('canplaythrough', isAppLoaded, false);
+
+
 const sounds = {
   button1: new Audio('0.wav'),
   button2: new Audio('1.wav'),
